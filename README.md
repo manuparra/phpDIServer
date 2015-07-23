@@ -55,9 +55,7 @@ This is a simple example of usage where we use:
 - LOGIN  (Login)
 - NEW ORDER (AddOrder)
 
-
  ```php
-
 require_once 'DiServerServices.php';
 
 // Create DiServerService object
@@ -99,10 +97,8 @@ $result=$service->AddOrder($addOrder);
 // you have the XML SOAP code with the result of the order (ID, etc.)
 
 //echo $result->AddOrderResult->any;
-
-
 ```
 
-## LICENSE
+## License
 
-The MIT License (MIT).
+The MIT License (MIT)
