@@ -7,7 +7,7 @@ SAP Business One DI Server (Data Interface Server) is a Component Object Model (
 **phpDiServer** is a multifunctional  wrapper to integrate SAP BO and DIServer with your application in PHP.
 With this code (AddOrderSap.php), you can develop and integrate on PHP multiple functions avaliables in DIServer
 
-## Functionality
+## Functionality included
 
 -  Login 
 -  LoginResponse 
